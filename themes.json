@@ -1,0 +1,153 @@
+{
+  "version": 1,
+  "themes": [
+    {
+      "id": "material_light",
+      "name": "Material Light",
+      "author": "JetKeyboard",
+      "colors": {
+        "bgKeyboard": "#F8F9FA",
+        "keyBg": "#FFFFFF",
+        "textMain": "#1A1A1A",
+        "keyAccent": "#1A73E8",
+        "keyBgFunc": "#E1E3E1",
+        "borderColor": "#747775"
+      }
+    },
+    {
+      "id": "emerald_harmony",
+      "name": "Emerald Harmony",
+      "author": "oxpc",
+      "colors": {
+        "bgKeyboard": "#E8F5E9",
+        "keyBg": "#FFFFFF",
+        "textMain": "#1B5E20",
+        "keyAccent": "#2E7D32",
+        "keyBgFunc": "#C8E6C9",
+        "borderColor": "#A5D6A7"
+      }
+    },
+    {
+      "id": "royal_velvet",
+      "name": "Royal Velvet",
+      "author": "oxpc",
+      "colors": {
+        "bgKeyboard": "#F3E5F5",
+        "keyBg": "#FFFFFF",
+        "textMain": "#4A148C",
+        "keyAccent": "#7B1FA2",
+        "keyBgFunc": "#E1BEE7",
+        "borderColor": "#CE93D8"
+      }
+    },
+    {
+      "id": "desert_sand",
+      "name": "Desert Sand",
+      "author": "oxpc",
+      "colors": {
+        "bgKeyboard": "#FFF3E0",
+        "keyBg": "#FFFFFF",
+        "textMain": "#E65100",
+        "keyAccent": "#FB8C00",
+        "keyBgFunc": "#FFE0B2",
+        "borderColor": "#FFCC80"
+      }
+    },
+    {
+      "id": "midnight_oled",
+      "name": "Midnight OLED",
+      "author": "JetKeyboard",
+      "colors": {
+        "bgKeyboard": "#000000",
+        "keyBg": "#121212",
+        "textMain": "#E0E0E0",
+        "keyAccent": "#BB86FC",
+        "keyBgFunc": "#1E1E1E",
+        "borderColor": "#333333"
+      }
+    },
+    {
+      "id": "rose_quartz",
+      "name": "Rose Quartz",
+      "author": "oxpc",
+      "colors": {
+        "bgKeyboard": "#FCE4EC",
+        "keyBg": "#FFFFFF",
+        "textMain": "#880E4F",
+        "keyAccent": "#EC407A",
+        "keyBgFunc": "#F8BBD0",
+        "borderColor": "#F48FB1"
+      }
+    },
+    {
+      "id": "coastal_mist",
+      "name": "Coastal Mist",
+      "author": "JetKeyboard",
+      "description": "A calm, clear palette inspired by sea glass and open skies.",
+      "colors": {
+        "bgKeyboard": "#E8F1F5",
+        "keyBg": "#FBFEFF",
+        "textMain": "#18313D",
+        "keyAccent": "#175B73",
+        "keyBgFunc": "#D5E4EA",
+        "borderColor": "#A8C1CC"
+      }
+    },
+    {
+      "id": "sage_focus",
+      "name": "Sage Focus",
+      "author": "JetKeyboard",
+      "description": "Quiet botanical greens make long writing sessions feel effortless.",
+      "colors": {
+        "bgKeyboard": "#EEF3E8",
+        "keyBg": "#FCFDF8",
+        "textMain": "#27372B",
+        "keyAccent": "#315C43",
+        "keyBgFunc": "#DDE7D8",
+        "borderColor": "#B6C7B0"
+      }
+    },
+    {
+      "id": "terracotta_glow",
+      "name": "Terracotta Glow",
+      "author": "JetKeyboard",
+      "description": "Warm clay, soft parchment, and a grounded sunset accent.",
+      "colors": {
+        "bgKeyboard": "#F8EDE6",
+        "keyBg": "#FFFAF6",
+        "textMain": "#38261F",
+        "keyAccent": "#8A3F28",
+        "keyBgFunc": "#EBD8CE",
+        "borderColor": "#CEAD9E"
+      }
+    },
+    {
+      "id": "aurora_afterdark",
+      "name": "Aurora Afterdark",
+      "author": "JetKeyboard",
+      "description": "A focused midnight canvas with a confident, luminous blue.",
+      "colors": {
+        "bgKeyboard": "#10151F",
+        "keyBg": "#202A39",
+        "textMain": "#EAF1FA",
+        "keyAccent": "#4269B2",
+        "keyBgFunc": "#2B3647",
+        "borderColor": "#46546A"
+      }
+    },
+    {
+      "id": "plum_evening",
+      "name": "Plum Evening",
+      "author": "JetKeyboard",
+      "description": "Rich plum tones bring a thoughtful, creative energy to the keyboard.",
+      "colors": {
+        "bgKeyboard": "#1A1420",
+        "keyBg": "#2A2033",
+        "textMain": "#F3EAF7",
+        "keyAccent": "#71458F",
+        "keyBgFunc": "#382A43",
+        "borderColor": "#574365"
+      }
+    }
+  ]
+}
